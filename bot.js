@@ -10,7 +10,7 @@ const Canvas = require('canvas');
 const config = require('./ayarlar.json');
 
 
- poster.bind(client);
+ 
 
 const moment = require('moment');
 require('./util/eventLoader')(client);
